@@ -5,7 +5,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com//jenkins-powershell-mini-project.git'
+                git 'https://github.com/Shivani2604/jenkins-powershell-mini-project.git'
             }
         }
 
